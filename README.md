@@ -98,3 +98,8 @@ All major goals outlined in the GSoC proposal have been successfully completed:
 - **Mock Chain Testing Infrastructure** – Implemented comprehensive testing infrastructure with Mock Chain for testing blockchain interactions and contract functionality without requiring real blockchain transactions.
   - Commit: `b613acc` (Adding all tests with Mock Chain implementation)
 ---
+
+## Demo
+- **Live Deployment:** https://bene-ergo.stability.nexus/
+- **Landing Page:** https://bene.stability.nexus/
+---
